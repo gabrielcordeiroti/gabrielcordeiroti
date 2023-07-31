@@ -9,8 +9,7 @@ folks!" width="45%" height="45%"/>
 ## NOME DO PROJETO
 <div align="center">
 <img
-src="https://github.com/Laura-Oliveira/Laura-Oliveira/assets/12054959/b2db8ccc-fec
-9-4f62-b2bd-9c2f05b98d22" width="30%" height="30%">
+src="IMAGEM DO FUTURO PROJETO NA PASTA DELE MESMO DENTRO DO GITHUB" width="30%" height="30%">
 <br>
 LINK DO YOUTUBE
 </div>
